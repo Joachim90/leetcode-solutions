@@ -1,4 +1,3 @@
-fun main(){
 
     fun guess(guessedNumber: Int): Int {
         return 0;
@@ -31,4 +30,4 @@ fun main(){
     }
 
 
-}
+

@@ -20,8 +20,6 @@ public class leet274_H_index {
             if (i+1 <= citationsSorted[i]){
                 return i+1;
             }
-            System.out.println("i = " + i);
-            System.out.println("citationsSorted[i] = "+citationsSorted[i]);
         }
 
         return 0;
